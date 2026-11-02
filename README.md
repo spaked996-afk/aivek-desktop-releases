@@ -1,2 +1,11 @@
-# aivek-desktop-releases
-Official AIVEK Desktop installers and signed update eed. No client data or application source code.Official AIVEK Desktop installers and signed update feed. No client data or application source code.
+# AIVEK Desktop для macOS
+
+Установщики и подписанные обновления AIVEK Desktop.
+
+[Скачать последнюю версию](https://github.com/spaked996-afk/aivek-desktop-releases/releases/latest)
+
+После первой установки обновляйте приложение через «Настройки → Проверить обновления». Очередь, настройки и ключи хранятся отдельно от приложения.
+
+Приложение распространяется без Apple notarization: при первой установке macOS может потребовать вручную разрешить открытие. Архивы обновлений и список версий защищены цифровой подписью Ed25519.
+
+В этом репозитории нет клиентских баз, ключей API и приватных исходников приложения.
